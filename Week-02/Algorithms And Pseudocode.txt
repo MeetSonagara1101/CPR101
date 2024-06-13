@@ -1,0 +1,29 @@
+Step - 01 Start
+
+Step - 02 Taking Robot to the area where we have stored used and dirty dishes.
+
+Step - 03 Robot will find the Dishes and then detects the dirty dishes.
+
+step - 04 Robot will pick up scrubber and will pour dishwashing liquid on the scrubber.
+
+step - 05 Then pick up one Dirty Dish and start scrubbing on it untill the dish get clean.
+
+step - 06 After Scrubbing, washing the soap off by using clean water untill the dish removes all the remaining soap.
+
+Step - 07 If the dish is still dirty then it will repeat all the steps from 5 if not forward towards next step
+
+Step - 08 Robot will move from washing area to the place were dishes are arrage to keep the clean and clear washed dishes.
+
+Step - 09 Robot will move back to washing area, then clean the washing area and arrange things properly like scrubber dishwahing liquid, and clean the sink.
+
+Step - 09 End
+
+150 Words
+
+Nowadays Cloud Computings have greater impact on our computing hardware. With cloud computing we have decreased the use of local storage devices like pendrive, Hard Drive disk and many more. Since we're likely to use Cloud storage for example Google Drive and Microsoft OneDrive and many more. So with this the portabiliy of our data stored in cloud storage has increased. This technology has decreased the need for performance centric, high-cost computing devices.The main thing I have noticed is that the big servers like storages have been moved to cloud server which can be accessed online. For example Microsoft Azur, Amazon Web Services Oracle Cloud and many more.
+
+So, the performance of the user device becomes very less important because data of the user is on cloud so the corporation or the IT copanies servers is very important. Cloud Severs handles all the processing and allows the low performance device to handle all the tasks smoothly by increasing the processing load to the cloud.
+
+Users of cloud can also access software and their services on variety of gadgets, including laptops, desktop computers, smartphones, and tablets. Users have no limitation to a particular configration or a particular device. So, hardware become less important because to use cloud internet is requierd. Therefore, it can process the data of cloud and you can have a capability to interact on cloud based services or application.
+
+In Addition to, Their are some tasks and applications that requiers specific configration of hardware or the power of processing which the cloud can't change it. The apps that needs real-time processing may gain from powerfull hardware.
